@@ -5,5 +5,5 @@
 * Function 
 * a and b vales (lower and upper integration limits)
 * Optional: error stopping criterion, maximum number of iterations
-#### Outputs:
+### Outputs:
 * I: approximate integral value
