@@ -8,3 +8,5 @@ These are my algorithms that I created in Mech105 - Numerical Methods
 * LU Factorization
 * Romberg Integration
 * Bisection
+* Binary Converter
+* Special Matrix
