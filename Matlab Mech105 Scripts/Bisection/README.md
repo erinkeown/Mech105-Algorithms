@@ -1,4 +1,4 @@
-# Bisection
+# Bisection (from the book)
 ## What this file does:
 * Implements the bisection method to find the root of the function
 ### Inputs:
