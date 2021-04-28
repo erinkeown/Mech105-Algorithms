@@ -4,5 +4,5 @@
 ### Inputs:
 * x: vector of equally spaced independent variables
 * y: vector of function values with respect to x
-#### Outputs:
+### Outputs:
 * I: numerical integral calculated
