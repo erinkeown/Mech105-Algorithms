@@ -1,7 +1,7 @@
 # Bisection
-## What this file does
+## What this file does:
 * Implements the bisection method to find the root of the function
-### Inputs
+### Inputs:
 * Function
 * Upper and lower starting values
 * Optional: error stopping criterion, maximum number of iterations
