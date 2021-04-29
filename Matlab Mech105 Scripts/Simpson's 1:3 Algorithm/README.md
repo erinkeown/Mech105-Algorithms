@@ -5,4 +5,4 @@
 * x: vector of equally spaced independent variables
 * y: vector of function values with respect to x
 ### Outputs:
-* I: numerical integral calculated
+* I: numerical integral calculated using the composite rule
